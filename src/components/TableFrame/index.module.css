@@ -1,0 +1,37 @@
+/*! purgecss start ignore */
+
+.frame tr {
+  @apply .flex;
+  @apply .flex-col;
+  @media (--screen-sm) {
+    @apply .flex-row;
+    @apply .items-center;
+    @apply .justify-between;
+  }
+}
+
+.frame th,
+.frame td {
+  @apply .text-left;
+  @apply .px-3;
+  @apply .flex-grow;
+  @apply .w-full;
+}
+
+.frame th {
+  @apply .py-5;
+}
+
+.frame td {
+  @apply .py-2;
+}
+
+.body tr:nth-child(odd) {
+  @apply .bg-white;
+}
+
+.body tr {
+  @apply .bg-gray-300;
+}
+
+/*! purgecss end ignore */
