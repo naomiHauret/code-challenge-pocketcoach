@@ -23,3 +23,10 @@
 * UI: React
 * Styles: Tailwind CSS, PostCSS, CSS Modules
 * Format: Prettier
+
+
+
+## Demo
+You can [test it by yourself](https://pocketcoach-challenge.now.sh/), or just watch the demo on Youtube.
+
+[![PocketCoach challenge video demo](https://img.youtube.com/vi/QI3B5lNH_Kk/0.jpg)](https://youtu.be/QI3B5lNH_Kk) 
